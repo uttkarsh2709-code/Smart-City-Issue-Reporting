@@ -39,3 +39,9 @@ yarn-error.log*
 
 # Local JDK bundle
 oracleJdk-25/
+**/oracleJdk-*/
+oracleJdk-*/
+
+# Build output
+frontend/dist/
+
